@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "60658235403",
+    "project_id": "cloudchat-83249",
+    "storage_bucket": "cloudchat-83249.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60658235403:android:5bd2a20b1e5584767d6f0e",
+        "android_client_info": {
+          "package_name": "com.example.cloudchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60658235403-q94cp6np0cbmrneql1j6etafhcahmo3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd8v-v2py40ZoGJ9VZe-BCQ04hD57TUaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60658235403-q94cp6np0cbmrneql1j6etafhcahmo3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
